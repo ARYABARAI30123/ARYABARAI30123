@@ -21,9 +21,9 @@
 ### 🧠 Core Skills
 
 - 🖥️ **Languages:** `Python` 🐍 | `Java` ☕ | `SQL` 🧮  
-- 🧠 **ML Expertise:** Supervised & Unsupervised Learning, Deep Learning, NLP 🗣️, Computer Vision 👁️  
-- 🧰 **Tools & Frameworks:** `TensorFlow` 🔶 | `PyTorch` 🔥 | `Scikit-learn` 📊 | `OpenCV` 📷 | `Pandas` 🐼 | `NumPy` 🔢 | `LangChain` 🧠🔗  
-- ☁️ **Cloud & Analytics:** `GCP` 🌐 | `AWS` ☁️ | `Power BI` 📈 | `MATLAB` 📘 | `Jupyter` 📓 | `Colab` 🧪 | `Git` 🧰  
+- 🧠 **ML Expertise:** Supervised & Unsupervised Learning, Deep Learning, NLP , Computer Vision 👁  
+- 🧰 **Tools & Frameworks:** `TensorFlow` 🔶 | `PyTorch` 🔥 | `Scikit-learn` 📊 | `OpenCV` 📷 | `Pandas` 🐼 | `NumPy` 🔢 | `LangChain` 🔗  
+- ☁️ **Cloud & Analytics:** `GCP` 🌐 | `AWS` ☁️ | `Power BI` 📈 | `MATLAB`  | `Jupyter`  | `Colab` | `Git` 🧰  
 - 🗣️ **Soft Skills:** Storytelling with Data, Problem Solving, Technical Communication, Teamwork  
 
 ---
