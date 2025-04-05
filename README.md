@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arya Barai</h1>
-<h3 align="center">AI/ML Engineer | Cloud Enthusiast | Creative Technologist</h3>
+<h3 align="center">AI/ML Engineer | Cloud Enthusiast ☁️ | Creative Technologist 💡</h3>
 
 <p align="center">
   <a href="mailto:aryabarai30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -14,17 +14,18 @@
 
 - 🎓 Final-year **B.Tech in Artificial Intelligence & Machine Learning** at Symbiosis Institute of Technology  
 - 🔍 Focused on solving **real-world problems with AI**, **Cloud**, and **Data Science**  
+- 🧠 Believer in **"Learning by Doing"** through hands-on projects, hackathons, and internships  
 - ✨ Co-authored a research paper on **IoT Security**, currently under review at **ICIRD 2025**  
 
 ---
 
 ### 🧠 Core Skills
 
-- **Languages:** `Python`, `Java`, `SQL`  
-- **ML Expertise:** Supervised & Unsupervised Learning, Deep Learning, NLP, Computer Vision  
-- **Tools & Frameworks:** `TensorFlow`, `PyTorch`, `Scikit-learn`, `OpenCV`, `Pandas`, `NumPy`  
-- **Cloud & Analytics:** `GCP`, `AWS`, `Power BI`, `MATLAB`, `Jupyter`, `Colab`, `Git`  
-- **Soft Skills:** Storytelling with Data, Problem Solving, Technical Communication, Teamwork  
+- 🖥️ **Languages:** `Python` 🐍 | `Java` ☕ | `SQL` 🧮  
+- 🧠 **ML Expertise:** Supervised & Unsupervised Learning, Deep Learning, NLP 🗣️, Computer Vision 👁️  
+- 🧰 **Tools & Frameworks:** `TensorFlow` 🔶 | `PyTorch` 🔥 | `Scikit-learn` 📊 | `OpenCV` 📷 | `Pandas` 🐼 | `NumPy` 🔢 | `LangChain` 🧠🔗  
+- ☁️ **Cloud & Analytics:** `GCP` 🌐 | `AWS` ☁️ | `Power BI` 📈 | `MATLAB` 📘 | `Jupyter` 📓 | `Colab` 🧪 | `Git` 🧰  
+- 🗣️ **Soft Skills:** Storytelling with Data, Problem Solving, Technical Communication, Teamwork  
 
 ---
 
@@ -44,7 +45,7 @@
 
 ---
 
-### 🏅 Certifications
+### 📚 Certifications
 
 - 🧠 **AI & ML Virtual Internship** – Externs Club  
 - ☁️ **Google Cloud Computing Foundations** – Skill Boost  
