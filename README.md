@@ -17,7 +17,6 @@
 
 - 🎓 Final-year **B.Tech in Artificial Intelligence & Machine Learning** at Symbiosis Institute of Technology  
 - 🔍 Focused on solving **real-world problems with AI**, **Cloud**, and **Data Science**  
-- 🧠 Believer in **"Learning by Doing"** through hands-on projects, hackathons, and internships  
 - ✨ Co-authored a research paper on **IoT Security**, currently under review at **ICIRD 2025**  
 
 ---
