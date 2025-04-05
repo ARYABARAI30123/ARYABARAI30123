@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ARYABARAI30123/ARYABARAI30123/main/A_professional_personal_branding_banner_image_feat.png" alt="Arya Barai Banner" style="border-radius: 10px;" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Arya Barai</h1>
 <h3 align="center">AI/ML Engineer | Cloud Enthusiast | Creative Technologist</h3>
